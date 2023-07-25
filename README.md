@@ -1,4 +1,4 @@
-# EndToEnd(B)
+# EndToEnd(a)
 
 - 강아지
 
